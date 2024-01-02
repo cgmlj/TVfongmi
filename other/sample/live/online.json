@@ -6,7 +6,7 @@
     },
     {
       "name": "TXT",
-      "url": "https://github.com/live.txt",
+      "url": "http://w1vhh2q.nat.ipyingshe.com/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -19,7 +19,7 @@
     },
     {
       "name": "EXO",
-      "url": "https://github.com/live.txt",
+      "url": "http://w1vhh2q.nat.ipyingshe.com/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 2
